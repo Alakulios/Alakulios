@@ -1,7 +1,8 @@
+I build analytics and automation workflows using Python and AI-assisted tools to reduce manual work and surface insights faster. My projects focus on data cleaning, API ingestion, automated reporting, and clear business-facing dashboards built in Power BI.
 
+###  Core Tools & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api?username=asher-hagan&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asher-hagan&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asher-hagan&layout=compact&theme=radical" />
+* **Python** — Pandas, automation scripts
+* **AI-assisted analysis** — LLM-driven summarization, data workflows
+* **Power BI** — Dashboards, reporting
+* **APIs** — Data ingestion & integration
