@@ -10,9 +10,9 @@ I build analytics and automation workflows using Python and AI-assisted tools to
 [![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 
 ### AI & Automation
-[![AI](https://img.shields.io/badge/Artificial_Intelligence-00D2FF?style=for-the-badge&logo=artificialintelligence&logoColor=black)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![LLM](https://img.shields.io/badge/LLMs-FF6B00?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-00C0FF?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-691e5d?style=for-the-badge&logo=artificialintelligence&logoColor=black)
+![LLM](https://img.shields.io/badge/LLMs-872696?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-5a0a7a?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Featured Projects
 - [LOL_DashBoard](link) → Interactive dashboard (Python/Power BI?)
